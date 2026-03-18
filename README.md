@@ -41,15 +41,6 @@ let raaju = Developer(
 
 ---
 
-### Featured
-
-| Project | About |
-|---|---|
-| [Swift Playground Solutions](https://github.com/RaajuPahlowan/Swift-Playground-Solutions) | Algorithm practice & coding exercises in Swift |
-| [rideSharing](https://github.com/RaajuPahlowan/rideSharing) | iOS app connecting riders at the tap of a button |
-| [iOS Basic Browser](https://github.com/RaajuPahlowan/iOS-basic-web-browser) | Fast, minimal web browser for iOS |
-
----
 
 <div align="center">
 
