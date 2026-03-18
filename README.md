@@ -38,7 +38,7 @@ let raaju = Developer(
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RaajuPahlowan&show_icons=true&hide_border=true&theme=default&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RaajuPahlowan&show_icons=true&hide_border=true&theme=default&hide_title=true&rank_icon=github" />
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaajuPahlowan&layout=compact&hide_border=true&theme=default&hide_title=true&langs_count=4" />
 
