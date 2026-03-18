@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Raaju+Pahlowan;iOS+Developer+%7C+UX+Obsessed;Building+things+people+love)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7D1B02&center=true&vCenter=true&width=500&lines=Raaju+Pahlowan;iOS+Developer+%7C+UX+Obsessed;Building+things+people+love)](https://git.io/typing-svg)
 
 </div>
 
