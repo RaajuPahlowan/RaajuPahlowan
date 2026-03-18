@@ -19,8 +19,6 @@ let raaju = Developer(
 
 ---
 
----
-
 ### Stats
 
 <div align="center">
