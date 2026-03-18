@@ -12,7 +12,7 @@ let raaju = Developer(
     role:     "iOS Developer",
     based:    "Dhaka, Bangladesh 🇧🇩",
     company:  "Bdjobs.com Ltd",
-    focus:    ["Swift", "UIKit", "SwiftUI", "UX Design"],
+    focus:    ["Swift", "UIKit", "SwiftUI"],
     currently: "Building user-centric iOS experiences"
 )
 ```
