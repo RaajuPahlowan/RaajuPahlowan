@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0A58A1&center=true&vCenter=true&width=500&lines=Raaju+Pahlowan;iOS+Developer+%7C+UX+Obsessed;Building+things+people+love)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Raaju+Pahlowan;iOS+Developer+%7C+UX+Obsessed;Building+things+people+love)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,11 +23,7 @@ let raaju = Developer(
 
 <div align="left">
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=swift,xcode,uikit,swiftui,figma,git,github)](https://skillicons.dev)
 
 </div>
 
