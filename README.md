@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=267ED1&center=true&vCenter=true&width=500&lines=Raaju+Pahlowan;iOS+Developer+%7C+UX+Obsessed;Building+things+people+love)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Raaju+Pahlowan;iOS+Developer+%7C+UX+Obsessed;Building+things+people+love)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,6 +28,16 @@ let raaju = Developer(
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=RaajuPahlowan&show_icons=true&hide_border=true&theme=radical&hide_title=true&rank_icon=github" />
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaajuPahlowan&layout=compact&hide_border=true&theme=radical&hide_title=true&langs_count=4" />
+
+</div>
+
+---
+
+### Contributions
+
+<div align="center">
+
+![3D Contrib](profile-3d-contrib/profile-night-view.svg)
 
 </div>
 
