@@ -19,14 +19,6 @@ let raaju = Developer(
 
 ---
 
-### Stack
-
-<div align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=swift,xcode,uikit,swiftui,figma,git,github)](https://skillicons.dev)
-
-</div>
-
 ---
 
 ### Stats
