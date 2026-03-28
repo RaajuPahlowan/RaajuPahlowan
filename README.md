@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- Typing animation header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=3C8BD6&center=true&vCenter=true&width=500&lines=Raaju+Pahlowan;iOS+Developer;Building+things+humans+love)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -23,7 +21,7 @@ let raaju = Developer(
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RaajuPahlowan&show_icons=true&hide_border=true&theme=radical&hide_title=true&rank_icon=github" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=RaajuPahlowan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaajuPahlowan&layout=compact&hide_border=true&theme=radical&hide_title=true&langs_count=4" />
 
@@ -40,7 +38,6 @@ let raaju = Developer(
 </div>
 
 ---
-
 
 <div align="center">
 
