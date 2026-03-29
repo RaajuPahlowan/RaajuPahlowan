@@ -20,7 +20,6 @@
 <!--)-->
 <!--```-->
 
-### Terminal
 
 <div align="center">
   <img src="terminal.svg" width="620" alt="Terminal"/>
@@ -28,7 +27,6 @@
 
 ---
 
-### Stats
 
 <div align="center">
 
@@ -40,7 +38,6 @@
 
 ---
 
-### Contributions
 
 <div align="center">
 
