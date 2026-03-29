@@ -25,6 +25,7 @@
   <img src="terminal.svg" width="620" alt="Terminal"/>
 </div>
 
+---
 
 <div align="center">
 
