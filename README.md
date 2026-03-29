@@ -51,16 +51,8 @@
 ---
 
 <div align="center">
-
-[![X](https://img.shields.io/badge/@RaajuPahlowan-050e1f?style=for-the-badge&logo=x&logoColor=00e5ff)](https://twitter.com/RaajuPahlowan)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/github.com/RaajuPahlowan-050e1f?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/RaajuPahlowan)
-
-</div>
-<!-- <div align="center">
-
 [![X](https://img.shields.io/badge/@RaajuPahlowan-050e1f?style=flat-square&logo=x&logoColor=00e5ff)](https://twitter.com/RaajuPahlowan)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/github.com/RaajuPahlowan-050e1f?style=flat-square&logo=github&logoColor=00e5ff)](https://github.com/RaajuPahlowan)
-
-</div> -->
+  
+</div>
