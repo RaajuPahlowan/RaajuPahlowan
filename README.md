@@ -4,9 +4,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=3C8BD6&center=true&vCenter=true&width=500&lines=Raaju+Pahlowan;iOS+Developer;Building+things+humans+love" alt="Typing SVG" />
-</div>
+</div> -->
 
 ---
 
