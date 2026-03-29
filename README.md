@@ -27,16 +27,6 @@
 
 ---
 
-### Contributions
-
-<div align="center">
-
-![3D Contrib](profile-3d-contrib/profile-night-view.svg)
-
-</div>
-
----
-
 ### Stats
 
 <div align="center">
@@ -44,6 +34,16 @@
 <img height="165" src="https://streak-stats.demolab.com?user=RaajuPahlowan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=050e1f&stroke=3C8BD6&ring=00e5ff&fire=3C8BD6&currStreakNum=00e5ff&sideNums=3C8BD6&currStreakLabel=00e5ff&sideLabels=3C8BD6&dates=4a7fa8" />
 &nbsp;&nbsp;
 <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaajuPahlowan&layout=compact&hide_border=true&bg_color=050e1f&title_color=00e5ff&text_color=3C8BD6&langs_count=6&cache_seconds=1800" /> -->
+
+</div>
+
+---
+
+### Contributions
+
+<div align="center">
+
+![3D Contrib](profile-3d-contrib/profile-night-view.svg)
 
 </div>
 
