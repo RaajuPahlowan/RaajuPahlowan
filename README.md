@@ -10,17 +10,6 @@
 
 ---
 
-<!--```swift-->
-<!--let raaju = Developer(-->
-<!--    role:      "iOS Developer",-->
-<!--    based:     "Dhaka, Bangladesh 🇧🇩",-->
-<!--    company:   "Bdjobs.com Ltd",-->
-<!--    focus:     ["Swift", "UIKit", "SwiftUI"],-->
-<!--    currently: "Building user-centric iOS experiences"-->
-<!--)-->
-<!--```-->
-
-
 <div align="center">
   <img src="terminal.svg" width="620" alt="Terminal"/>
 </div>
