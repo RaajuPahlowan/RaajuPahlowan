@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="header.svg" width="100%" alt="Raaju Pahlowan"/>
 </div>
 
-<br/>
+<br/> -->
 
 ---
 
@@ -28,7 +28,6 @@
 </div> -->
 
 
-### Contributions
 
 
 <div align="center">
