@@ -21,6 +21,14 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           user: RaajuPahlowan
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity
+          base_hireable: no
+          base_indepth: yes
           config_timezone: Asia/Dhaka
+          config_order: base.header, base.activity
+          extras_css: |
+            .field[data-name="issues"] { display: none }
+            .field[data-name="issue_comments"] { display: none }
+            .field[data-name="pull_requests_reviewed"] { display: none }
+            .field[data-name="repositories"] { display: none }
           filename: github-metrics.svg
