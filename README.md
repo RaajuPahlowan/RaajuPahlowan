@@ -14,10 +14,18 @@
 
 ### Stats
 
-<div align="center">
+<!-- <div align="center">
   
 <img height="165" src="https://streak-stats.demolab.com?user=RaajuPahlowan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=050e1f&stroke=3C8BD6&ring=00e5ff&fire=3C8BD6&currStreakNum=00e5ff&sideNums=3C8BD6&currStreakLabel=00e5ff&sideLabels=3C8BD6&dates=4a7fa8" />
 &nbsp;&nbsp;
+
+</div> -->
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RaajuPahlowan&show_icons=true&hide_border=true&bg_color=050e1f&title_color=00e5ff&icon_color=3C8BD6&text_color=3C8BD6&ring_color=00e5ff&count_private=true" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaajuPahlowan&hide_border=true&bg_color=050e1f&title_color=00e5ff&text_color=3C8BD6&layout=compact" />
 
 </div>
 
