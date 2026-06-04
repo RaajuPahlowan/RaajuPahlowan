@@ -15,20 +15,42 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats
+      - name: Generate stats card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           user: RaajuPahlowan
           template: classic
           base: header, activity
-          base_hireable: no
           base_indepth: yes
           config_timezone: Asia/Dhaka
-          config_order: base.header, base.activity
+          config_padding: 10, 15
           extras_css: |
-            .field[data-name="issues"] { display: none }
-            .field[data-name="issue_comments"] { display: none }
-            .field[data-name="pull_requests_reviewed"] { display: none }
+            :root { --color-background: #050e1f; --color-text: #00e5ff; }
+            h2.section { color: #00e5ff; }
             .field[data-name="repositories"] { display: none }
+            .field[data-name="following"] { display: none }
+            .field[data-name="watching"] { display: none }
+            .field[data-name="organizations"] { display: none }
+            .field[data-name="sponsoring"] { display: none }
+            .field[data-name="sponsors"] { display: none }
+            .field[data-name="forkers"] { display: none }
+            .field[data-name="packages"] { display: none }
+            .field[data-name="releases"] { display: none }
+            .field[data-name="disk_usage"] { display: none }
+            .field[data-name="license"] { display: none }
+            .field[data-name="contributed"] { display: none }
           filename: github-metrics.svg
+
+      - name: Generate calendar heatmap
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          user: RaajuPahlowan
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Dhaka
+          extras_css: |
+            :root { --color-background: #050e1f; }
+          filename: github-calendar.svg
