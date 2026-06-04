@@ -20,10 +20,11 @@
 &nbsp;&nbsp;
 
 </div> -->
-
 <div align="center">
 
-<img height="160" src="https://github-stats-alpha.vercel.app/api?username=RaajuPahlowan&cc=050e1f&tc=00e5ff&ic=3C8BD6&bc=050e1f" />
+<img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-stats/overview.svg" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-stats/languages.svg" />
 
 </div>
 
