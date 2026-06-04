@@ -22,9 +22,7 @@
 </div> -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-stats/overview.svg" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-stats/languages.svg" />
+<img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-metrics.svg" />
 
 </div>
 
