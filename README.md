@@ -23,12 +23,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RaajuPahlowan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-<br/>
-<div align="center">
-
 <img height="160" src="https://github-stats-alpha.vercel.app/api?username=RaajuPahlowan&cc=050e1f&tc=00e5ff&ic=3C8BD6&bc=050e1f" />
 
 </div>
