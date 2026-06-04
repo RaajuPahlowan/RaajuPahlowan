@@ -1,8 +1,10 @@
-<!-- <div align="center">
+<div align="center">
   <img src="header.svg" width="100%" alt="Raaju Pahlowan"/>
 </div>
 
-<br/> -->
+<br/>
+
+---
 
 <div align="center">
   <img src="terminal.svg" width="620" alt="Terminal"/>
@@ -11,21 +13,22 @@
 ---
 
 
-<!-- <div align="center">
+<div align="center">
   
 <img height="165" src="https://streak-stats.demolab.com?user=RaajuPahlowan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=050e1f&stroke=3C8BD6&ring=00e5ff&fire=3C8BD6&currStreakNum=00e5ff&sideNums=3C8BD6&currStreakLabel=00e5ff&sideLabels=3C8BD6&dates=4a7fa8" />
 &nbsp;&nbsp;
 
-</div> -->
+</div>
 <!-- <div align="center">
 
-<img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-metrics.svg" />
+<!-- <img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-metrics.svg" />
 
 <img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-calendar.svg" />
 
-</div> -->
+</div> --> -->
 
 
+---
 
 
 <div align="center">
