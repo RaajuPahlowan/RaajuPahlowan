@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <img src="header.svg" width="100%" alt="Raaju Pahlowan"/>
 </div>
 
 <br/>
 
----
+--- -->
 
 <div align="center">
   <img src="terminal.svg" width="620" alt="Terminal"/>
