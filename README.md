@@ -23,7 +23,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-metrics.svg" />
 
-<img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-calendar.svg" />
+<img src="https://raw.githubusercontent.com/RaajuPahlowan/RaajuPahlowan/main/github-calendar.svg" this part should be deleted/>
 
 </div> -->
 
