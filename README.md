@@ -2,18 +2,18 @@
   <img src="terminal.svg" width="620" alt="Raaju Pahlowan - iOS Developer terminal banner"/>
 </div>
 
-<h1 align="center">Raaju Pahlowan</h1>
+<div align="center">
 
-<p align="center">
-  Native iOS developer (Swift, SwiftUI, UIKit) from Dhaka, Bangladesh.<br>
-  Currently building the Bdjobs.com iOS app.
-</p>
+# Raaju Pahlowan
 
-<p align="center">
-  <a href="https://raajupahlowan.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/pahlowan/">LinkedIn</a> ·
-  <a href="https://twitter.com/RaajuPahlowan">X / Twitter</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Native+iOS+Developer;Swift+%C2%B7+SwiftUI+%C2%B7+UIKit;Building+Bdjobs.com+iOS+app;Dhaka%2C+Bangladesh" alt="Native iOS Developer · Swift · SwiftUI · UIKit · Dhaka, Bangladesh" />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-raajupahlowan.github.io-00e5ff?style=for-the-badge&labelColor=050e1f)](https://raajupahlowan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-pahlowan-3C8BD6?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=050e1f)](https://www.linkedin.com/in/pahlowan/)
+
+</div>
 
 ---
 
@@ -33,13 +33,55 @@
 
 ---
 
-### About
+<div align="center">
 
-I'm Raaju Pahlowan, an iOS engineer who builds fast, reliable native apps with Swift, SwiftUI and UIKit. At Bdjobs.com I work on Bangladesh's largest job platform app, including its push notification system and authentication networking layer.
+### `> about`
 
-**Tech:** Swift · SwiftUI · UIKit · Combine · Alamofire · Firebase · MVVM
+</div>
 
-**Featured projects:** [Hullor](https://github.com/RaajuPahlowan/Hullor-iOS) · [Tactile Navigator Glove](https://github.com/RaajuPahlowan/Tactile-Navigator-Glove) · [RetroMovie](https://github.com/RaajuPahlowan/RetroMovie) · [Sightseer](https://github.com/RaajuPahlowan/iOS-Sightseer)
+I'm **Raaju Pahlowan**, an iOS engineer who builds fast, reliable native apps. At **Bdjobs.com** I work on Bangladesh's largest job platform app, including its end-to-end push notification system and authentication networking layer (Alamofire interceptor, token refresh, Keychain).
+
+<div align="center">
+
+### `> stack`
+
+![Swift](https://img.shields.io/badge/Swift-050e1f?style=flat-square&logo=swift&logoColor=00e5ff)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-050e1f?style=flat-square&logo=swift&logoColor=3C8BD6)
+![UIKit](https://img.shields.io/badge/UIKit-050e1f?style=flat-square&logo=apple&logoColor=00e5ff)
+![Xcode](https://img.shields.io/badge/Xcode-050e1f?style=flat-square&logo=xcode&logoColor=3C8BD6)
+![Combine](https://img.shields.io/badge/Combine-050e1f?style=flat-square&logo=apple&logoColor=00e5ff)
+![Firebase](https://img.shields.io/badge/Firebase-050e1f?style=flat-square&logo=firebase&logoColor=3C8BD6)
+![Git](https://img.shields.io/badge/Git-050e1f?style=flat-square&logo=git&logoColor=00e5ff)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-050e1f?style=flat-square&logo=cocoapods&logoColor=3C8BD6)
+
+<sub>Alamofire · REST APIs · MVVM · MVC · Core Data · Keychain · JWT · ARKit · AVFoundation</sub>
+
+### `> projects`
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/RaajuPahlowan/Hullor-iOS">Hullor</a></h4>
+      Event discovery and ticketing app. Swift, UIKit, Firebase.
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/RaajuPahlowan/Tactile-Navigator-Glove">Tactile Navigator Glove</a></h4>
+      Assistive glove for visually impaired users, with a Bluetooth iOS controller app.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/RaajuPahlowan/RetroMovie">RetroMovie</a></h4>
+      Movie discovery app with watchlists and trending feeds.
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/RaajuPahlowan/iOS-Sightseer">Sightseer</a></h4>
+      Travel recommendation app built with SwiftUI.
+    </td>
+  </tr>
+</table>
 
 ---
 
