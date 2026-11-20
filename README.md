@@ -7,11 +7,6 @@
 </h1>
 
 <p align="center">
-  Native iOS engineer building fast, reliable apps in Swift, SwiftUI and UIKit.<br>
-  Currently shipping the <b>Bdjobs.com</b> iOS app, Bangladesh's biggest job platform.
-</p>
-
-<p align="center">
   <a href="https://raajupahlowan.github.io/"><img src="https://img.shields.io/badge/Portfolio-raajupahlowan.github.io-00e5ff?style=for-the-badge&labelColor=050e1f" alt="Raaju Pahlowan portfolio"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pahlowan/"><img src="https://img.shields.io/badge/LinkedIn-Raaju%20Pahlowan-3C8BD6?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=050e1f" alt="LinkedIn"/></a>
@@ -43,6 +38,11 @@
 </div>
 
 ---
+
+<p align="center">
+  Native iOS engineer building fast, reliable apps in Swift, SwiftUI and UIKit.<br>
+  Currently shipping the <b>Bdjobs.com</b> iOS app, Bangladesh's biggest job platform.
+</p>
 
 <div align="center">
 
