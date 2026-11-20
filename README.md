@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="terminal.svg" width="620" alt="Terminal"/>
-</div>
-
 <h1 align="center">
   <img src="name.svg" width="720" alt="Raaju Pahlowan - iOS Developer"/>
 </h1>
+
+<div align="center">
+  <img src="terminal.svg" width="620" alt="Terminal"/>
+</div>
 
 <div align="center">
 
