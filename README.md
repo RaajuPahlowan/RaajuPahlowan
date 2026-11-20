@@ -1,25 +1,36 @@
 <div align="center">
-  <img src="terminal.svg" width="620" alt="Raaju Pahlowan - iOS Developer terminal banner"/>
+  <img src="terminal.svg" width="620" alt="Terminal"/>
 </div>
 
-<div align="center">
+<h1 align="center">
+  <img src="name.svg" width="720" alt="Raaju Pahlowan - iOS Developer"/>
+</h1>
 
-# Raaju Pahlowan
+<p align="center">
+  Native iOS engineer building fast, reliable apps in Swift, SwiftUI and UIKit.<br>
+  Currently shipping the <b>Bdjobs.com</b> iOS app, Bangladesh's biggest job platform.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Native+iOS+Developer;Swift+%C2%B7+SwiftUI+%C2%B7+UIKit;Building+Bdjobs.com+iOS+app;Dhaka%2C+Bangladesh" alt="Native iOS Developer · Swift · SwiftUI · UIKit · Dhaka, Bangladesh" />
+<p align="center">
+  <a href="https://raajupahlowan.github.io/"><img src="https://img.shields.io/badge/Portfolio-raajupahlowan.github.io-00e5ff?style=for-the-badge&labelColor=050e1f" alt="Raaju Pahlowan portfolio"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pahlowan/"><img src="https://img.shields.io/badge/LinkedIn-Raaju%20Pahlowan-3C8BD6?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=050e1f" alt="LinkedIn"/></a>
+</p>
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-raajupahlowan.github.io-00e5ff?style=for-the-badge&labelColor=050e1f)](https://raajupahlowan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-pahlowan-3C8BD6?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=050e1f)](https://www.linkedin.com/in/pahlowan/)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-050e1f?style=flat-square&logo=swift&logoColor=00e5ff" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-050e1f?style=flat-square&logo=swift&logoColor=3C8BD6" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/UIKit-050e1f?style=flat-square&logo=apple&logoColor=00e5ff" alt="UIKit"/>
+  <img src="https://img.shields.io/badge/Xcode-050e1f?style=flat-square&logo=xcode&logoColor=3C8BD6" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/Firebase-050e1f?style=flat-square&logo=firebase&logoColor=00e5ff" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-050e1f?style=flat-square&logo=git&logoColor=3C8BD6" alt="Git"/>
+</p>
 
 ---
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=RaajuPahlowan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=050e1f&stroke=3C8BD6&ring=00e5ff&fire=3C8BD6&currStreakNum=00e5ff&sideNums=3C8BD6&currStreakLabel=00e5ff&sideLabels=3C8BD6&dates=4a7fa8" alt="Raaju Pahlowan GitHub contribution streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=RaajuPahlowan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=050e1f&stroke=3C8BD6&ring=00e5ff&fire=3C8BD6&currStreakNum=00e5ff&sideNums=3C8BD6&currStreakLabel=00e5ff&sideLabels=3C8BD6&dates=4a7fa8" alt="Raaju Pahlowan GitHub streak" />
 
 </div>
 
@@ -30,58 +41,6 @@
 ![Raaju Pahlowan 3D GitHub contributions](profile-3d-contrib/profile-night-view.svg)
 
 </div>
-
----
-
-<div align="center">
-
-### `> about`
-
-</div>
-
-I'm **Raaju Pahlowan**, an iOS engineer who builds fast, reliable native apps. At **Bdjobs.com** I work on Bangladesh's largest job platform app, including its end-to-end push notification system and authentication networking layer (Alamofire interceptor, token refresh, Keychain).
-
-<div align="center">
-
-### `> stack`
-
-![Swift](https://img.shields.io/badge/Swift-050e1f?style=flat-square&logo=swift&logoColor=00e5ff)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-050e1f?style=flat-square&logo=swift&logoColor=3C8BD6)
-![UIKit](https://img.shields.io/badge/UIKit-050e1f?style=flat-square&logo=apple&logoColor=00e5ff)
-![Xcode](https://img.shields.io/badge/Xcode-050e1f?style=flat-square&logo=xcode&logoColor=3C8BD6)
-![Combine](https://img.shields.io/badge/Combine-050e1f?style=flat-square&logo=apple&logoColor=00e5ff)
-![Firebase](https://img.shields.io/badge/Firebase-050e1f?style=flat-square&logo=firebase&logoColor=3C8BD6)
-![Git](https://img.shields.io/badge/Git-050e1f?style=flat-square&logo=git&logoColor=00e5ff)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-050e1f?style=flat-square&logo=cocoapods&logoColor=3C8BD6)
-
-<sub>Alamofire · REST APIs · MVVM · MVC · Core Data · Keychain · JWT · ARKit · AVFoundation</sub>
-
-### `> projects`
-
-</div>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/RaajuPahlowan/Hullor-iOS">Hullor</a></h4>
-      Event discovery and ticketing app. Swift, UIKit, Firebase.
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/RaajuPahlowan/Tactile-Navigator-Glove">Tactile Navigator Glove</a></h4>
-      Assistive glove for visually impaired users, with a Bluetooth iOS controller app.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/RaajuPahlowan/RetroMovie">RetroMovie</a></h4>
-      Movie discovery app with watchlists and trending feeds.
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/RaajuPahlowan/iOS-Sightseer">Sightseer</a></h4>
-      Travel recommendation app built with SwiftUI.
-    </td>
-  </tr>
-</table>
 
 ---
 
