@@ -6,6 +6,8 @@
 
 --- -->
 
+<h1 align="center">Raaju Pahlowan</h1>
+
 <div align="center">
   <img src="terminal.svg" width="620" alt="Terminal"/>
 </div>
